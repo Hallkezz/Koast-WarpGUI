@@ -11,4 +11,4 @@ Original module: www.jc-mp.com/forums/index.php/topic,3841.0.html
 * Type ***/tpm*** to open the menu.
 * Press ***"V"*** to open/close the menu.
 
-[Post to the forum jc-mp.com](https://www.jc-mp.com/forums/index.php/topic,6101.0.html)
+[Post on forum jc-mp.com](https://www.jc-mp.com/forums/index.php/topic,6101.0.html)
